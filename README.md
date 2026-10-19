@@ -1,7 +1,7 @@
 # Proyecto Final - Data Science: Análisis de Indicadores Educativos
 
 ## Integrantes
-- FLORENCIA ZONI, VIRGINIA CONTRERAS, ALEJANDRA YAMIN
+- FLORENCIA ZONI, VIRGINIA CONTRERAS
 
 ## Origen del Dataset
 El dataset utilizado fue obtenido del portal oficial de **Datos Argentina** (Sección Educación), específicamente el archivo de la *Tasa de Promoción Efectiva según división político-territorial*.
